@@ -1,5 +1,6 @@
 # moodClassifier
-Mood classifier using Spotify API <br>
+Machine Learning project. Mood classifier using Spotify API <br>
+Implements KNN learning set
 Currently uses a javaScript webscrapper to pull data from Spotify playlists <br>
 The Spotify playlists are used as training sets<br>
 test sets are created via 
